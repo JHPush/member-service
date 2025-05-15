@@ -37,4 +37,4 @@ out/
 .vscode/
 
 # aws
-/aws
+aws/
